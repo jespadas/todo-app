@@ -6,6 +6,12 @@ This project was made originally in [TodoApp](https://github.com/jespadas/curso-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installation
+
+Run : 
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
