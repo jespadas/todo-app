@@ -1,3 +1,7 @@
+# About this repository
+
+This project was made originally in [TodoApp](https://github.com/jespadas/curso-react/tree/jespadas/jespadas/04-hooks-app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
