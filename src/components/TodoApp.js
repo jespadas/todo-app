@@ -1,5 +1,5 @@
 import React, { useReducer, useEffect } from 'react';
-import { todoReducer } from './todoReducer';
+import { todoReducer } from '../reducers/todoReducer';
 
 import { TodoList } from './TodoList';
 import { AddForm } from './AddForm';
